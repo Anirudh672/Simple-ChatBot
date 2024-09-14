@@ -1,0 +1,1 @@
+This is a simple chatbot equipped with tool calling, persistent memory and human-in-the-loop-interactivity. Giving it also the capability to unwind changes if necessary and explore different outcomes by going back to previous states in graph using the checkpoints.
